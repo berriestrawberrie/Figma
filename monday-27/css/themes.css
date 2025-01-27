@@ -1,0 +1,28 @@
+.themes{
+    list-style-type: none;
+    margin-top: 60px;
+}
+
+.themes li{
+    display: inline-block;
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+.blue{
+    color: #33A2E0;
+}
+
+.red{ 
+    color: #FC569A;
+
+}
+
+.purple{
+    color: #824FF1;
+
+}
+
+.green{
+    color: #A3DC00;
+}
